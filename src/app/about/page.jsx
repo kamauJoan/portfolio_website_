@@ -41,7 +41,7 @@ const AboutPage = () => {
             <h1 className="font-bold text-2xl">BIOGRAPHY</h1>
             {/* BIOGRAPHY DESC */}
             <p className="text-lg">
-            Meet Joan Kamau, your friendly neighborhood front-end engineer! With a passion for pixel-perfect designs and a knack for crafting seamless user experiences, Joan is on a mission to elevate the digital landscape one line of code at a time. Armed with a keen eye for detail and a love for problem-solving, she brings creativity and innovation to every project she touches. When she's not busy coding, you can find her exploring the latest tech trends, indulging in a good book, or seeking inspiration from the world around her. Join Joan on her journey as she continues to push the boundaries of front-end development and shape the future of digital experiences.
+            Meet Joan Kamau, your friendly neighborhood front-end engineer! With a passion for pixel-perfect designs and a knack for crafting seamless user experiences, Joan is on a mission to elevate the digital landscape one line of code at a time. Armed with a keen eye for detail and a love for problem-solving, she brings creativity and innovation to every project she touches. When she is not busy coding, you can find her exploring the latest tech trends, indulging in a good book, or seeking inspiration from the world around her. Join Joan on her journey as she continues to push the boundaries of front-end development and shape the future of digital experiences.
             </p>
             {/* BIOGRAPHY QUOTE */}
             <span className="italic">
